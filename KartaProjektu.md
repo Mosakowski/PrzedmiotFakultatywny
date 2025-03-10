@@ -1,4 +1,4 @@
-#Wizja ScavengerHunt Olsztyn
+##Wizja ScavengerHunt Olsztyn
 Aplikacja pozwalająca użytkownikom uczestniczyć w miejskiej grze poszukiwania skarbów.
 Każdy gracz wykupuje dostęp do pierwszej zagadki za 5 zł,
 a kolejne wskazówki prowadzą go przez miasto lub internet.
